@@ -6,6 +6,6 @@ The long-tailed distribution exists widely in the natural distribution, but few 
 
 ## We focus on the following questions:
 
-Find the difference in data distribution of different modalities in the corresponding scene;
-Enhencing tail under-represented classes utilizing well-represented classes in another;
-Effective knowledge transfer between different modalities and different categories.
+Find the difference in data distribution of different modalities in the corresponding scene;  
+Enhencing tail under-represented classes utilizing well-represented classes in another;  
+Effective knowledge transfer between different modalities and different categories.  

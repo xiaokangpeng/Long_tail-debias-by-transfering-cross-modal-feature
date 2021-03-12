@@ -1,8 +1,20 @@
 Long-tail methods:
 
-[1] Feature space augmentation for long-tailed data (Tail classes features augmentation by CAM decomposition)
-[2] Deep representation learning on long-tailed data: A learnable embedding augmentation perspective (Tail classes features augmentation by creating feature cloud)
+[1] Decoupling Representation and Classifier for Long-Tailed Recognition (Train a weighted balanced classifier)
+[2] Unbiased scene graph generation from biased training (Longtail debias under the guidance of causal reasoning)
 [3] Learning deep features for discriminative localization (CAM technology)
+[4] Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect (Longtail debias under the guidance of causal reasoning)
+[5] Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-tailed Classification (Use expert model trained by multiple subsets to guide student model)
+[6] Remix: Rebalanced Mixup (Mixup augmentation method for longtail)
+
+
+
+Transfer learning:
+
+[1] Feature transfer learning for deep face recognition with under-represented data (Use Gan to generate more tail data)
+[2] Soundnet: Learning sound representations from unlabeled video (Transfer knowledge from one modal to another)
+[3] Feature space augmentation for long-tailed data (Tail classes features augmentation by CAM decomposition)
+[4] Deep representation learning on long-tailed data: A learnable embedding augmentation perspective (Tail classes features augmentation by creating feature cloud)
 
 
 
@@ -10,11 +22,3 @@ Data:
 
 [1] Vggsound: A large-scale audio-visual dataset (VGGsound, Audio recognition data set with multi-modal data)
 [2] Imagenet: A large-scale hierarchical image database （Imagenet,an image dataset which we may transfer knowledge from）
-
-
-
-Transfer learning:
-
-[1] Feature transfer learning for deep face recognition with under-represented data ()
-[2] Soundnet: Learning sound representations from unlabeled video (Transfer knowledge from one modal to another)
-

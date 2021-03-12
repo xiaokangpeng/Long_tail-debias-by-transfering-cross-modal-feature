@@ -15,6 +15,7 @@ Transfer learning:
 [2] Soundnet: Learning sound representations from unlabeled video (Transfer knowledge from one modal to another)
 [3] Feature space augmentation for long-tailed data (Tail classes features augmentation by CAM decomposition)
 [4] Deep representation learning on long-tailed data: A learnable embedding augmentation perspective (Tail classes features augmentation by creating feature cloud)
+[5] Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning (Transfer knowledge by fine-tune stratege)
 
 
 

@@ -3,6 +3,7 @@
 The long-tailed distribution exists widely in the natural distribution, but few people notice the different distributions among different modals even in corresponding scene.
 
 
+
 ## We focus on the following questions:
 
 Find the difference in data distribution of different modalities in the corresponding scene;

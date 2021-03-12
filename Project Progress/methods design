@@ -1,5 +1,15 @@
 #Methods design
 
+
+In face of longtail tasks, we usually meet two challenges: 
+1. lack of tail samples to learn a well-represented feature, which makes the model hard to recognize the tail class.  
+2. hard to learn a solid border line between the tail class and nearby classes in feature space, 
+which makes it difficult to distinguish the tail class and similar classes.  
+
+In fact, normal data augmentation for tail classes is an optional way to solve the first challenge but fail to deal with the later one,
+because these augumented samples are quite similar and can't fill up the feature space evenly.  
+
 optional methods:
 
-feature space augmentation for tail classes
+1. use feature-level augmentation by learn the general part from the well-represented classes.  
+2. use knowledge in a different modal to guide current tail classes.  

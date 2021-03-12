@@ -1,0 +1,5 @@
+#Former work
+
+We find there exists longtail phenomenon in VGGsound dataset, such distribution is close to audio nature for it's proposed as an audio recognition dataset.    
+The head classes in this distribution are well-represented, make them easy to tell from other classes
+

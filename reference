@@ -1,6 +1,6 @@
 Long-tail methods:
 
-[1] Feature space augmentation for long-tailed data
+[1] Feature space augmentation for long-tailed data (Tail classes features enhance by CAM decomposition)
 [2] Deep representation learning on long-tailed data: A learnable embedding augmentation perspective
 [3] Learning deep features for discriminative localization
 
@@ -8,13 +8,13 @@ Long-tail methods:
 
 Data:
 
-[1] Vggsound: A large-scale audio-visual dataset
-[2] Imagenet: A large-scale hierarchical image database
+[1] Vggsound: A large-scale audio-visual dataset (VGGsound, Audio recognition data set with multi-modal data)
+[2] Imagenet: A large-scale hierarchical image database （Imagenet,an image dataset which we may transfer knowledge from）
 
 
 
 Transfer learning:
 
 [1] Feature transfer learning for deep face recognition with under-represented data
-[2] Soundnet: Learning sound representations from unlabeled video
+[2] Soundnet: Learning sound representations from unlabeled video ()
 

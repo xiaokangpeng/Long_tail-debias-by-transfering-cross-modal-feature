@@ -6,6 +6,6 @@ Imagine the scene: Some people gather around a table and are having a meeting, a
 
 ## We focus on the following questions:
 
-Find the difference in data distribution of different modalities in the corresponding scene;  
-Enhencing tail under-represented classes utilizing well-represented classes in another;  
-Effective knowledge transfer between different modalities and different categories.  
+1. Find the difference in data distribution of different modalities in the corresponding scene;  
+2. Enhencing tail under-represented classes utilizing well-represented classes in another;  
+3. Effective knowledge transfer between different modalities and different categories.  

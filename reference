@@ -1,8 +1,8 @@
 Long-tail methods:
 
-[1] Feature space augmentation for long-tailed data (Tail classes features enhance by CAM decomposition)
-[2] Deep representation learning on long-tailed data: A learnable embedding augmentation perspective
-[3] Learning deep features for discriminative localization
+[1] Feature space augmentation for long-tailed data (Tail classes features augmentation by CAM decomposition)
+[2] Deep representation learning on long-tailed data: A learnable embedding augmentation perspective (Tail classes features augmentation by creating feature cloud)
+[3] Learning deep features for discriminative localization (CAM technology)
 
 
 
@@ -15,6 +15,6 @@ Data:
 
 Transfer learning:
 
-[1] Feature transfer learning for deep face recognition with under-represented data
-[2] Soundnet: Learning sound representations from unlabeled video ()
+[1] Feature transfer learning for deep face recognition with under-represented data ()
+[2] Soundnet: Learning sound representations from unlabeled video (Transfer knowledge from one modal to another)
 

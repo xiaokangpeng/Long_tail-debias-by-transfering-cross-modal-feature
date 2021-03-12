@@ -1,0 +1,16 @@
+#experimental results
+
+
+vgg classification by visual infomation only：
+
+20 epoch:
+imagenet fine-tune  （acc 23.7 mAP 22.0）
+no fine-tune        （acc 22.8 mAP 21.3）
+
+50 epoch:
+imagenet fine-tune  （acc 29.3 mAP 28.2）
+no fine-tune        （acc 23.6 mAP 22.6）
+
+
+Conclusion: The introduction of the imagenet pre-training model can achieve a certain degree of transfer of knowledge, 
+even if the distribution of vgg image information is different from the imagenet image distribution
